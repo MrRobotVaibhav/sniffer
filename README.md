@@ -1,5 +1,5 @@
 # Sniffer
-Packet Sniffer is a tool developed in Python3.This Sniffer is programmed to fetch the http requests which have been visited by the Victim and get the users name and password in case of login.
+Packet Sniffer is a tool developed in Python3.This is programmed to capture data flowing Through an Interface, Filter it, and Display Useful info lke login and Password, images urls, etc.
 
 
 ## How to Install
