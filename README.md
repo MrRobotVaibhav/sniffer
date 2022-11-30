@@ -1,5 +1,5 @@
 # Sniffer
-Packet Sniffer is a tool developed in Python3.This is programmed to capture data flowing Through an Interface, Filter it, and Display Useful info lke login and Password, images urls, etc.
+Packet Sniffer is a tool developed in Python3.This is programmed to capture data flowing Through an Interface, Filter it, and Display Useful info like login and Password, images urls, etc.
 
 
 ## How to Install
