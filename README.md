@@ -8,7 +8,7 @@ Packet Sniffer is a tool developed in Python3.This Sniffer is programmed to fetc
 
 ## How to Use
 You should have python3 install .
-You should be in the same Directory and give sudo privilleges because of required due to the use of socket.SOCK_RAW, which need to have Admin privileges to run on GNU/Linux.
+You should be in the same Directory and give sudo privilleges due to  the use of socket.SOCK_RAW, which need to have Admin privileges to run on GNU/Linux.
 
 `sudo  python3 ./sniffer -i <interface>`
 # Result
